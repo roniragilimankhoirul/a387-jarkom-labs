@@ -6,7 +6,7 @@ Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/lap
 
 Tata cara menjalankan project:
 
-1. Install node modules
+1. Install dependencies
 
 ```
 npm install
