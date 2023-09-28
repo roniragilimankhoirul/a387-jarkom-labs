@@ -17,3 +17,4 @@ npm install
 ```
 npm run start
 ```
+Aplikasi akan berjalan di http://localhost:3000.
